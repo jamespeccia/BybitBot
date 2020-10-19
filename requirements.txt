@@ -1,0 +1,7 @@
+pip install Flask
+pip install hashlib
+pip install hmac
+pip install json
+pip install requests
+pip install time
+pip install urllib3
